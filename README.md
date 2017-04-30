@@ -8,9 +8,9 @@
 
 ### 2.[记与迁移学习大牛杨强教授的第二次会面](https://zhuanlan.zhihu.com/p/26260083)
 
-### 代码
+### 3.代码
 
-#### - Matlab：domain adaptation toolbox
+#### - Matlab：[domain adaptation toolbox](https://github.com/viggin/domain-adaptation-toolbox)
 
 这是一份用matlab写的domain adaptation工具包，内包含了以下的9种迁移学习方法。
 
@@ -20,3 +20,10 @@
 
 **我写的python版本工具包，目前刚完成了transfer component analysis （TCA）方法。也请有意愿的同学来一起加入这个项目。**
 
+### 4.未来计划：
+
+迁移学习、transfer learning、domain adaptation眹的我看过的一些论文
+
+相关的一些硕博士论文
+
+以及我已经写好的一些总结
