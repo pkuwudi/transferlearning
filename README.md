@@ -28,16 +28,17 @@
 
 ### 3.代码
 
-#### - Matlab：[domain adaptation toolbox](https://github.com/viggin/domain-adaptation-toolbox)
+##### - Matlab：[domain adaptation toolbox](https://github.com/viggin/domain-adaptation-toolbox)
 
 这是一份用matlab写的domain adaptation工具包，内包含了以下的9种迁移学习方法。
 
 ![Matlab](https://raw.githubusercontent.com/jindongwang/transferlearning/master/png/matlab.png)
 
-#### - Python：[我写的工具包](https://github.com/jindongwang/transferlearning/tree/master/code/python)
+##### - Python：[我写的工具包](https://github.com/jindongwang/transferlearning/tree/master/code/python)
 
 **我写的python版本工具包，目前刚完成了transfer component analysis （TCA）方法。也请有意愿的同学来一起加入这个项目。**
 
+##### - [香港科技大学总结的一些迁移学习方法工具包](http://www.cse.ust.hk/TL/)
 
 - - -
 
@@ -48,7 +49,7 @@
 - [Wenyuan Dai](https://scholar.google.com.sg/citations?user=AGR9pP0AAAAJ&hl=zh-CN)：中文名戴文渊，上海交通大学硕士，现任第四范式人工智能创业公司CEO。迁移学习领域著名的牛人，在顶级会议上发表多篇高水平文章。
 - [Fuzhen Zhuang](http://www.intsci.ac.cn/users/zhuangfuzhen/)：中文名庄福振，中科院计算所博士，现任中科院计算所副研究员。[[Google scholar](https://scholar.google.com/citations?user=klJBYrAAAAAJ&hl=zh-CN&oi=ao)]
 - [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)：中文名龙明盛，清华大学博士，现任清华大学助理研究员。[[Google scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=mingsheng+long&hl=zh-CN&oi=ao)]
-- [Lixin Duan](http://www.lxduan.info/)：中文名段立新，现任亚马逊高级科学家。
+- [Lixin Duan](http://www.lxduan.info/)：中文名段立新，现就职于亚马逊。
 
 - - -
 
