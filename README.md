@@ -6,7 +6,15 @@
 
 - - -
 
+### 2.迁移学习的综述文章
 
+[一些迁移学习的综述文章](https://github.com/jindongwang/transferlearning/tree/master/paper/survey)，中文英文都有。
+
+- 其中，代表性的综述是[A survey on transfer learning](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/A%20survey%20on%20transfer%20learning_Pan_Yang_2010.pdf)，这是最具代表性的综述，对迁移学习进行了比较权威的定义。
+
+- 最新的综述是[A survey of transfer learning](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/A%20survey%20of%20transfer%20learning_Weiss%20et%20al_2016.pdf)，写于2015-2016年。其中交代了一些比较经典的如同构、异构等学习方法代表性文章。包括了很多方法介绍，值得一看。
+
+- 此外，还包括[迁移学习应用于行为识别](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20learning%20for%20activity%20recognition%20-%20a%20survey_Cook%20et%20al_2013.pdf)、[迁移学习与增强学习](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains_Taylor_Stone_2009.pdf)结合等。中文方面，[迁移学习研究进展](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95_Zhuang%20et%20al_2010.pdf)是一篇不错的中文综述。
 
 
 - - -
@@ -26,19 +34,17 @@
 
 - - -
 
-### 3.迁移学习的综述文章
+### 4.迁移学习代表性研究学者
 
-[一些迁移学习的综述文章](https://github.com/jindongwang/transferlearning/tree/master/paper/survey)，中文英文都有。
-
-- 其中，代表性的综述是[A survey on transfer learning](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/A%20survey%20on%20transfer%20learning_Pan_Yang_2010.pdf)，这是最具代表性的综述，对迁移学习进行了比较权威的定义。
-
-- 最新的综述是[A survey of transfer learning](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/A%20survey%20of%20transfer%20learning_Weiss%20et%20al_2016.pdf)，写于2015-2016年。其中交代了一些比较经典的如同构、异构等学习方法代表性文章。包括了很多方法介绍，值得一看。
-
-- 此外，还包括[迁移学习应用于行为识别](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20learning%20for%20activity%20recognition%20-%20a%20survey_Cook%20et%20al_2013.pdf)、[迁移学习与增强学习](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains_Taylor_Stone_2009.pdf)结合等。中文方面，[迁移学习研究进展](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95_Zhuang%20et%20al_2010.pdf)是一篇不错的中文综述。
+- [Qiang Yang](http://www.cs.ust.hk/~qyang/)：中文名杨强。香港科技大学计算机系主任，教授，大数据中心主任。迁移学习领域世界性专家。IEEE/AAAI/IAPR/AAAS fellow。[[Google scholar](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=zh-CN)]
+- [Sinno Jialin Pan](http://www.ntu.edu.sg/home/sinnopan/)：杨强的学生，香港科技大学博士，现任新加坡南阳理工大学助理教授。迁移学习领域代表性综述A survey on transfer learning的第一作者（Qiang Yang是二作）。[[Google scholar](https://scholar.google.com/citations?user=P6WcnfkAAAAJ&hl=zh-CN)]
+- [Fuzhen Zhuang](http://www.intsci.ac.cn/users/zhuangfuzhen/)：中文名庄福振，中科院计算所博士，现任中科院计算所副研究员。[[Google scholar](https://scholar.google.com/citations?user=klJBYrAAAAAJ&hl=zh-CN&oi=ao)]
+- [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)：中文名龙明盛，清华大学博士，现任清华大学助理研究员。[[Google scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=mingsheng+long&hl=zh-CN&oi=ao)]
+- [Lixin Duan](ttp://www.lxduan.info/)：中文名段立新，现任亚马逊高级科学家。
 
 - - -
 
-### 4.迁移学习相关的硕博士论文
+### 5.迁移学习相关的硕博士论文
 
 包括了中英文的一些迁移学习相关的硕博士论文。其中，诸如杨强的学生，像
 
