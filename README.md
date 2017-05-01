@@ -1,5 +1,10 @@
 ## 关于迁移学习的一些资料，以后会在这里更新
 
+关于机器学习和行为识别的资料，请见我的下面两个仓库：
+
+- [行为识别](https://github.com/jindongwang/activityrecognition)
+- [机器学习](https://github.com/jindongwang/MachineLearning)
+
 ### 1.迁移学习简介
 
 [文档](https://github.com/jindongwang/transferlearning/blob/master/doc/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)   ||   [PPT(英文)](https://github.com/jindongwang/transferlearning/blob/master/doc/TransferLearning.pdf)   ||  [PPT(中文)](https://github.com/jindongwang/transferlearning/blob/master/doc/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0_zh-cn.pdf)
@@ -64,6 +69,12 @@
 - - -
 
 ### [记与迁移学习大牛杨强教授的第二次会面](https://zhuanlan.zhihu.com/p/26260083)
+
+- - -
+
+### [迁移学习用于行为识别的文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
+
+我写的迁移学习应用于行为识别领域的文章小总结。目前不知道为什么markdown表格的格式错乱，未来会修正。
 
 - - -
 
