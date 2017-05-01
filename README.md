@@ -46,7 +46,7 @@
 
 ### 5.迁移学习相关的硕博士论文
 
-包括了中英文的一些迁移学习相关的硕博士论文。其中，诸如杨强的学生，像
+硕博士论文可以让我们很快地对迁移学习的相关领域做一些了解，同时，也能很快地了解概括相关研究者的工作。包括了中英文的一些迁移学习相关的硕博士论文。其中，诸如杨强的学生，像
 
 - [Sinno Jialin Pan](https://github.com/jindongwang/transferlearning/blob/master/paper/%E7%A1%95%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87/%5BPhDThesis10%5DFeature-based%20Transfer%20Learning%20with%20Real-world%20Applications.pdf_.pdf)
 - [Hao Hu](https://github.com/jindongwang/transferlearning/blob/master/paper/%E7%A1%95%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87/Learning-based%20Human%20activity%20recognition.pdf_.pdf)
@@ -66,9 +66,13 @@
 
 - - -
 
-
 ### 未来计划：
 
-迁移学习、transfer learning、domain adaptation眹的我看过的一些论文
+迁移学习、transfer learning、domain adaptation相关的我看过的一些论文:
+
+- domain adaptation
+- 深度迁移学习
+- 迁移学习用于行为识别
+- 多源迁移学习
 
 以及我已经写好的一些总结
