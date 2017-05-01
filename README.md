@@ -6,7 +6,7 @@
 
 - - -
 
-### 2.[记与迁移学习大牛杨强教授的第二次会面](https://zhuanlan.zhihu.com/p/26260083)
+
 
 
 - - -
@@ -26,7 +26,7 @@
 
 - - -
 
-### 4.迁移学习的综述文章
+### 3.迁移学习的综述文章
 
 [一些迁移学习的综述文章](https://github.com/jindongwang/transferlearning/tree/master/paper/survey)，中文英文都有。
 
@@ -38,7 +38,7 @@
 
 - - -
 
-### 5.迁移学习相关的硕博士论文
+### 4.迁移学习相关的硕博士论文
 
 包括了中英文的一些迁移学习相关的硕博士论文。其中，诸如杨强的学生，像
 
@@ -55,6 +55,11 @@
 其他的文章，请见[完整版](https://github.com/jindongwang/transferlearning/tree/master/paper/%E7%A1%95%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87)。
 
 - - -
+
+### [记与迁移学习大牛杨强教授的第二次会面](https://zhuanlan.zhihu.com/p/26260083)
+
+- - -
+
 
 ### 未来计划：
 
