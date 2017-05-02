@@ -1,17 +1,17 @@
-## 关于迁移学习的一些资料，以后会在这里更新
+## 关于迁移学习的一些资料
 
 关于机器学习和行为识别的资料，请见我的下面两个仓库：
 
 - [行为识别](https://github.com/jindongwang/activityrecognition)
 - [机器学习](https://github.com/jindongwang/MachineLearning)
 
-- - -
+_ _ _
 
 ### 1.迁移学习简介
 
 [文档](https://github.com/jindongwang/transferlearning/blob/master/doc/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)   ||   [PPT(英文)](https://github.com/jindongwang/transferlearning/blob/master/doc/TransferLearning.pdf)   ||  [PPT(中文)](https://github.com/jindongwang/transferlearning/blob/master/doc/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0_zh-cn.pdf)
 
-- - -
+_ _ _
 
 ### 2.迁移学习的综述文章
 
@@ -24,7 +24,7 @@
 - 此外，还包括[迁移学习应用于行为识别](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20learning%20for%20activity%20recognition%20-%20a%20survey_Cook%20et%20al_2013.pdf)、[迁移学习与增强学习](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains_Taylor_Stone_2009.pdf)结合等。中文方面，[迁移学习研究进展](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95_Zhuang%20et%20al_2010.pdf)是一篇不错的中文综述。
 
 
-- - -
+_ _ _
 
 ### 3.代码
 
@@ -40,18 +40,17 @@
 
 ##### - [香港科技大学总结的一些迁移学习方法工具包](http://www.cse.ust.hk/TL/)
 
-- - -
+_ _ _
 
 ### 4.迁移学习代表性研究学者
 
 - [Qiang Yang](http://www.cs.ust.hk/~qyang/)：中文名杨强。香港科技大学计算机系主任，教授，大数据中心主任。迁移学习领域世界性专家。IEEE/AAAI/IAPR/AAAS fellow。[[Google scholar](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=zh-CN)]
 - [Sinno Jialin Pan](http://www.ntu.edu.sg/home/sinnopan/)：杨强的学生，香港科技大学博士，现任新加坡南阳理工大学助理教授。迁移学习领域代表性综述A survey on transfer learning的第一作者（Qiang Yang是二作）。[[Google scholar](https://scholar.google.com/citations?user=P6WcnfkAAAAJ&hl=zh-CN)]
-- [Wenyuan Dai](https://scholar.google.com.sg/citations?user=AGR9pP0AAAAJ&hl=zh-CN)：中文名戴文渊，上海交通大学硕士，现任第四范式人工智能创业公司CEO。迁移学习领域著名的牛人，在顶级会议上发表多篇高水平文章。
+- [Wenyuan Dai](https://scholar.google.com.sg/citations?user=AGR9pP0AAAAJ&hl=zh-CN)：中文名戴文渊，上海交通大学硕士，现任第四范式人工智能创业公司CEO。迁移学习领域著名的牛人，每篇论文引用量巨大，在顶级会议上发表多篇高水平文章。
 - [Fuzhen Zhuang](http://www.intsci.ac.cn/users/zhuangfuzhen/)：中文名庄福振，中科院计算所博士，现任中科院计算所副研究员。[[Google scholar](https://scholar.google.com/citations?user=klJBYrAAAAAJ&hl=zh-CN&oi=ao)]
 - [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)：中文名龙明盛，清华大学博士，现任清华大学助理研究员。[[Google scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=mingsheng+long&hl=zh-CN&oi=ao)]
-- [Lixin Duan](http://www.lxduan.info/)：中文名段立新，现就职于亚马逊。
-
-- - -
+- [Lixin Duan](http://www.lxduan.info/)：中文名段立新，新加坡南阳理工大学博士，现就职于亚马逊。
+_ _ _
 
 ### 5.迁移学习相关的硕博士论文
 
@@ -69,17 +68,17 @@
 
 其他的文章，请见[完整版](https://github.com/jindongwang/transferlearning/tree/master/paper/%E7%A1%95%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87)。
 
-- - -
+_ _ _
 
 ### [记与迁移学习大牛杨强教授的第二次会面](https://zhuanlan.zhihu.com/p/26260083)
 
-- - -
+_ _ _
 
 ### [迁移学习用于行为识别的文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
 
 我写的迁移学习应用于行为识别领域的文章小总结。目前不知道为什么markdown表格的格式错乱，未来会修正。
 
-- - -
+_ _ _
 
 ### 未来计划：
 
@@ -92,4 +91,4 @@
 
 以及我已经写好的一些总结
 
-> ***[文章版权声明]这篇文档是我开源到github上的，可以遵守相关的开源协议进行使用，如果使用时能加上我的名字就更好了。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载，我对一些文章都作了注解，有可能会很好地帮助理解。这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
+> ***[文章版权声明]这篇文档是我开源到github上的，可以遵守相关的开源协议进行使用，如果使用时能加上我的名字就更好了。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载。我对其中一些文章都写了自己的浅见，希望能很好地帮助理解。这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
