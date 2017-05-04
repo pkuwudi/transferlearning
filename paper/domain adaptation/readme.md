@@ -1,8 +1,15 @@
 ### Domain adaptation介绍及代表性文章梳理
 
+***
+
 Domain adaptation，DA，中文可翻译为域适配、域匹配、域适应，是迁移学习中的一类非常重要的问题，也是一个持续的研究热点。Domain adaptation可用于计算机视觉、物体识别、文本分类、声音识别等常见应用中。这个问题的基本定义是，假设源域和目标域的类别空间一样，特征空间也一样，但是数据的分布不一样，如何利用有标定的源域数据，来学习目标域数据的标定？
 
 事实上，根据目标域中是否有少量的标定可用，可以将domain adaptation大致分为无监督（目标域中完全无label）和半监督（目标域中有少量label）两大类。我们这里偏重介绍无监督。
+
+
+- - -
+
+
 
 #### 形式化
 
@@ -15,11 +22,19 @@ Domain adaptation，DA，中文可翻译为域适配、域匹配、域适应，�
 - \{$Y_{S}\}=\{Y_{T}\}$，即源域和目标域的类别空间相同
 - $P(X_S) \ne P(X_T)$，即源域和目标域的数据分布不同
 
+
+- - -
+
+
 #### 例子
 
 比如说，同样都是一台电脑，在不同角度，不同光照，以及不同背景下拍照，图像的数据具有不同的分布，但是从根本上来说，都是一台电脑的图像。Domain adaptation要做的就是，如何根据这些不同分布的数据，很好地学习缺失的标定。
 
 ![Domain adaptation](https://raw.githubusercontent.com/jindongwang/transferlearning/master/png/domain%20_adaptation.png)
+
+
+- - -
+
 
 #### 代表方法与文章
 
