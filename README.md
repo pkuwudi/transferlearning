@@ -68,6 +68,12 @@ _ _ _
 
 其他的文章，请见[完整版](https://github.com/jindongwang/transferlearning/tree/master/paper/%E7%A1%95%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87)。
 
+- - -
+
+### 6.Domain adaptation相关的文章
+
+Domain adaptation是迁移学习领域比较热的研究方向，在这里整理了一些经典的文章和说明：[Domain adaptation](https://github.com/jindongwang/transferlearning/tree/master/paper/domain%20adaptation)
+
 _ _ _
 
 ### [记与迁移学习大牛杨强教授的第二次会面](https://zhuanlan.zhihu.com/p/26260083)
