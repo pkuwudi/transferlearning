@@ -8,9 +8,8 @@ Domain adaptation，DA，中文可翻译为域适配、域匹配、域适应，�
 
 
 - - -
-
-
-
+ 
+$$abcd$$
 #### 形式化
 
 给定：有标定的$\mathcal{D}_{S}=\{X_{S_i},Y_{S_i}\}^{n}_{i=1}$，以及无标定的$\mathcal{D}_{T}=\{X_{T_i},?\}^{m}_{i=1}$
