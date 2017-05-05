@@ -9,13 +9,13 @@ _ _ _
 
 目录
 
-1.[迁移学习简介](#迁移学习简介)
-2.[迁移学习的综述文章](#迁移学习的综述文章)
-3.[Matlab和Python代码](#代码)
-4.[迁移学习代表性研究学者](#迁移学习代表性研究学者)
-5.[迁移学习相关的硕博士论文](#迁移学习相关的硕博士论文)
-6.[Domain adaptation相关的文章](https://github.com/jindongwang/transferlearning/tree/master/paper/domain%20adaptation)
-7.[迁移学习用于行为识别的文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
+* [迁移学习简介](#1.迁移学习简介)
+* [迁移学习的综述文章](#2.迁移学习的综述文章)
+* [Matlab和Python代码](#3.代码)
+* [迁移学习代表性研究学者](#4.迁移学习代表性研究学者)
+* [迁移学习相关的硕博士论文](#5.迁移学习相关的硕博士论文)
+* [Domain adaptation相关的文章](https://github.com/jindongwang/transferlearning/tree/master/paper/domain%20adaptation)
+* [迁移学习用于行为识别的文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
 
 - - -
 
