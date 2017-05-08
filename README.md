@@ -33,8 +33,9 @@ _ _ _
 
 - 最新的综述是[A survey of transfer learning](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/A%20survey%20of%20transfer%20learning_Weiss%20et%20al_2016.pdf)，写于2015-2016年。其中交代了一些比较经典的如同构、异构等学习方法代表性文章。包括了很多方法介绍，值得一看。
 
-- 此外，还包括[迁移学习应用于行为识别](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20learning%20for%20activity%20recognition%20-%20a%20survey_Cook%20et%20al_2013.pdf)、[迁移学习与增强学习](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains_Taylor_Stone_2009.pdf)结合等。中文方面，[迁移学习研究进展](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95_Zhuang%20et%20al_2010.pdf)是一篇不错的中文综述。
-
+- 此外，还包括[迁移学习应用于行为识别](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20learning%20for%20activity%20recognition%20-%20a%20survey_Cook%20et%20al_2013.pdf)、[迁移学习与增强学习](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains_Taylor_Stone_2009.pdf)结合等。
+- 关于[多个源域进行迁移的综述](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/A%20survey%20of%20multi-source%20domain%20adaptation_Sun%20et%20al_2015.pdf)、[视觉domain adaptation综述](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Visual%20Domain%20Adaptation%20-%20A%20survey%20of%20recent%20advances_Patel%20et%20al_2015.pdf)也十分有用。
+- 中文方面，[迁移学习研究进展](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95_Zhuang%20et%20al_2010.pdf)是一篇不错的中文综述。
 
 _ _ _
 

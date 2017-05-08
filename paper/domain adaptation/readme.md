@@ -4,6 +4,8 @@ Domain adaptation，DA，中文可翻译为域适配、域匹配、域适应，�
 
 事实上，根据目标域中是否有少量的标定可用，可以将domain adaptation大致分为无监督（目标域中完全无label）和半监督（目标域中有少量label）两大类。我们这里偏重介绍无监督。
 
+[视觉domain adaptation综述](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Visual%20Domain%20Adaptation%20-%20A%20survey%20of%20recent%20advances_Patel%20et%20al_2015.pdf)
+
 - - -
 
 #### 形式化
