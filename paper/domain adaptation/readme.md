@@ -6,6 +6,7 @@ Domain adaptation，DA，中文可翻译为域适配、域匹配、域适应，�
 
 [视觉domain adaptation综述](https://github.com/jindongwang/transferlearning/blob/master/paper/survey/Visual%20Domain%20Adaptation%20-%20A%20survey%20of%20recent%20advances_Patel%20et%20al_2015.pdf)
 
+关于迁移学习的理论方面，有三篇连贯式的理论分析文章连续发表在NIPS和Machine Learning上：[理论分析](https://github.com/jindongwang/transferlearning/tree/master/paper/theory)
 - - -
 
 #### 形式化
