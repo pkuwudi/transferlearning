@@ -40,6 +40,12 @@ Domain adaptation可以算是迁移学习领域最火的研究点了。因此，
 	- [Domain adaptation via tranfer component analysis](https://github.com/jindongwang/transferlearning/blob/master/paper/domain%20adaptation/Domain%20Adaptation%20via%20Transfer%20Component%20Analysis_Sinno%20Jialin%20Pan%20et%20al_2011.pdf)
 	- 发表在IEEE Trans. Neural Network期刊上（现改名为IEEE trans. Neural Network and Learning System），前作会议文章发在AAAI-09上
 	- [我的解读](https://zhuanlan.zhihu.com/p/26764147?group_id=844611188275965952)
+
+- 联合分布适配方法（joint distribution adaptation，JDA）
+	- [Transfer Feature Learning with Joint Distribution Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-distribution-adaptation-iccv13.pdf)
+	- 发表在2013年的ICCV上
+	- [我的解读](https://zhuanlan.zhihu.com/p/27336930)
+
 - 测地线流式核方法(Geodesic flow kernel, GFK)
 	- [Geodesic flow kernel for unsupervised domain adaptation](https://github.com/jindongwang/transferlearning/blob/master/paper/domain%20adaptation/Geodesic%20flow%20kernel%20for%20unsupervised%20domain%20adaptation_Gong%20et%20al_2012.pdf)
 	- 发表在CVPR-12上
