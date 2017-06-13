@@ -16,6 +16,7 @@ _ _ _
 * [迁移学习相关的硕博士论文](#5迁移学习相关的硕博士论文)
 * [Domain adaptation相关的文章](https://github.com/jindongwang/transferlearning/tree/master/paper/domain%20adaptation)
 * [迁移学习用于行为识别的文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
+* [常用数据集](https://github.com/jindongwang/transferlearning/blob/master/doc/dataset.md)
 
 - - -
 
