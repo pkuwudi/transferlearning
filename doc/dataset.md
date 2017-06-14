@@ -39,7 +39,7 @@ There are ususlly two kinds features: SURF and DeCAF6.
 
 [Download Office+Caltech SURF dataset](https://www.jianguoyun.com/p/DWNPUA0QjKnsBRjygi4)
 
-[Download Office_Caltech SURF dataset](https://www.jianguoyun.com/p/DRn57qkQjKnsBRj0gi4)
+[Download Office+Caltech DeCAF dataset](https://www.jianguoyun.com/p/DRn57qkQjKnsBRj0gi4)
 
 
 
