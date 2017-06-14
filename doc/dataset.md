@@ -31,6 +31,9 @@
 
 
 
+- - -
+
+
 ### Office+Caltech
 
 #### Area
@@ -69,6 +72,10 @@ This dataset was first introduced by Gong et al. [1]. I got the SURF features fr
 
 [Download Office+Caltech DeCAF dataset](https://www.jianguoyun.com/p/DRn57qkQjKnsBRj0gi4)
 
+
+- - -
+
+
 ### MNIST+USPS
 
 **Area** Handwritten digit recognition
@@ -76,6 +83,10 @@ This dataset was first introduced by Gong et al. [1]. I got the SURF features fr
 It is also popular. It contains randomly selected samples from MNIST and USPS. Then the source and target domains are constructed using each other.
 
 [Download MNIST+USPS SURF dataset](https://www.jianguoyun.com/p/DQNVR8IQjKnsBRj2gi4)
+
+
+- - -
+
 
 ### COIL20
 
@@ -85,6 +96,10 @@ It contains 20 classes. There are two datasets extracted: COIL1 and COIL2.
 
 [Download COIL20 SURF dataset](https://www.jianguoyun.com/p/DYkJdrEQjKnsBRj4gi4)
 
+
+- - -
+
+
 ### PIE
 
 **Area** Facial recognition
@@ -92,6 +107,11 @@ It contains 20 classes. There are two datasets extracted: COIL1 and COIL2.
 It is a relatively large dataset with many classes.
 
 [Download PIE SURF dataset](https://www.jianguoyun.com/p/DfhzbUwQjKnsBRj5gi4)
+
+
+- - -
+
+
 
 ### VLSC
 
@@ -101,23 +121,36 @@ It contains four domains: V(VOC2007), L(LabelMe), S(SUN09) and C(Caltech). There
 
 [Download the VLSC DeCAF dataset](https://www.jianguoyun.com/p/DdaInQ0QjKnsBRj6gi4)
 
+
+- - -
+
+
+
 ### IMAGENET
 
 It is selected from imagenet challange.
 
 [Download the IMAGENET DeCAF dataset](https://www.jianguoyun.com/p/DZCNd0oQjKnsBRj8gi4)
 
+
+- - -
+
+
 ### Animals-with-Attributes
 
 [Download the SURF/SIFT/DeCAF features](https://www.jianguoyun.com/p/DcRl38EQjKnsBRj_gi4)
 
-### Benchmark
+
+- - -
+
+
+## Benchmark
 
 TOCOMPLETE
 
-#### Office+Caltech SURF
+### Office+Caltech SURF
 
-| ﻿Index |   Dim  |      Method     | C vs A | C vs W | C vs D | A vs C | A vs W | A vs D | W vs C | W vs A | W vs D | D vs C | D vs A | D vs W |
+| ID |   Dim  |      Method     | C vs A | C vs W | C vs D | A vs C | A vs W | A vs D | W vs C | W vs A | W vs D | D vs C | D vs A | D vs W |
 |:-----:|:------:|:---------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |   1   |  d=100 |     PCA+1NN     |  36.95 |  32.54 |  38.22 |  34.73 |  35.59 |  27.39 |  26.36 |   31   |  77.07 |  29.65 |  32.05 |  75.93 |
 |   2   |        |     GFK+1NN     |  41.02 |  40.68 |  38.85 |  40.25 |  38.98 |  36.31 |  30.72 |  29.75 |  80.89 |  30.28 |  32.05 |  75.59 |
@@ -147,6 +180,11 @@ TOCOMPLETE
 |   26  | no dim |     KMM+SVM     |  48.32 |  45.78 |  53.53 |  42.21 |  42.38 |  42.72 |  29.01 |  31.94 |  71.98 |  31.61 |  32.2  |  72.88 |
 |   27  | no dim |    DTMKL+SVM    |  54.33 |  42.04 |  44.74 |  45.01 |  36.94 |  40.85 |  32.5  |  36.53 |  88.85 |  32.1  |  34.03 |  81.69 |
 |   28  | no dim |     SKM+SVM     |  53.97 |  43.31 |  43.05 |  44.7  |  37.58 |  42.37 |  31.34 |  35.07 |  89.81 |  30.37 |  30.27 |  81.02 |
+
+
+
+- - -
+
 
 ### References
 
