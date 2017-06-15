@@ -1,10 +1,8 @@
 ## Datasets for domain adaptation and transfer learning
 
-*How many times have you been* ++struggling to find++ the useful datasets?
-
-*How much time have you been wasting to* ++preprocess datasets++?
-
-*How burdersome is it to compare with other methods*? Will you re-run their code? or there is no code?
+- *How many times have you been* ++struggling to find++ the useful datasets?
+- *How much time have you been wasting to* ++preprocess datasets++?
+- *How burdersome is it to compare with other methods*? Will you re-run their code? or there is no code?
 
 **Datasets are critical to machine learning**, but *You should focus on* **YOUR** work! So we want to save your time by:
 
@@ -181,7 +179,12 @@ TOCOMPLETE
 |   27  | no dim |    DTMKL+SVM    |  54.33 |  42.04 |  44.74 |  45.01 |  36.94 |  40.85 |  32.5  |  36.53 |  88.85 |  32.1  |  34.03 |  81.69 |
 |   28  | no dim |     SKM+SVM     |  53.97 |  43.31 |  43.05 |  44.7  |  37.58 |  42.37 |  31.34 |  35.07 |  89.81 |  30.37 |  30.27 |  81.02 |
 
+**Results are coming from:**
 
+- 1~5：[4]
+- 6~15: [11]
+- 16~21: [12]
+- 22~28: [13]
 
 - - -
 
@@ -207,3 +210,9 @@ TOCOMPLETE
 [9] M. J. Choi, J. J. Lim, A. Torralba, and A. S. Willsky, “Exploiting hierarchical context on a large database of object categories,” in Proc. IEEE Conf. Comput. Vis. Pattern Recogit., 2010, pp. 129–136
 
 [10] http://www.uow.edu.au/~jz960/
+
+[11] Zhang J, Li W, Ogunbona P. Joint Geometrical and Statistical Alignment for Visual Domain Adaptation[C]. CVPR 2017.
+
+[12] Tahmoresnezhad J, Hashemi S. Visual domain adaptation via transfer feature learning[J]. Knowledge and Information Systems, 2017, 50(2): 585-605.
+
+[13] Long M, Wang J, Sun J, et al. Domain invariant transfer kernel learning[J]. IEEE Transactions on Knowledge and Data Engineering, 2015, 27(6): 1519-1532.
